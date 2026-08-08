@@ -64,7 +64,7 @@ I asked Gemini how to test collisions in the employee hash table and make sure t
 Gemini helped me test employee names that produce the same hash value and explained that both employees should remain in the same linked list.
 
 ### Prompt 3
-I asked gemini to help with my read me.
+I asked gemini to organize my read me.
 
 ### Suggestion I Changed
 
