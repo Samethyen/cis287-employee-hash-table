@@ -1,4 +1,5 @@
 # Assignment 7: Employee Hash Table
+MEHMET SAMED ASLANKAYA
 
 ## Description
 
@@ -78,3 +79,5 @@ I also tested an employee who was not in the table and confirmed that `get` retu
 Finally, I tested the collision between John Smith and David Lee. Both names hash to bucket 8, and both employees could still be retrieved correctly.
 
 https://www.onlinegdb.com/s/as/390021
+https://github.com/Samethyen/cis287-employee-hash-table
+
